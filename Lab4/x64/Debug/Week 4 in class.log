@@ -1,0 +1,5 @@
+﻿  ResistorBase.cpp
+Capacitor.obj : error LNK2019: unresolved external symbol "public: __cdecl ResistorBase::ResistorBase(double)" (??0ResistorBase@@QEAA@N@Z) referenced in function "public: __cdecl Capacitor::Capacitor(double)" (??0Capacitor@@QEAA@N@Z)
+Inductor.obj : error LNK2001: unresolved external symbol "public: __cdecl ResistorBase::ResistorBase(double)" (??0ResistorBase@@QEAA@N@Z)
+PassiveResistor.obj : error LNK2001: unresolved external symbol "public: __cdecl ResistorBase::ResistorBase(double)" (??0ResistorBase@@QEAA@N@Z)
+D:\SWIN-COS30008-DATA-STRUCTURE-AND-ALGORITHM\Lab4\x64\Debug\Lab4.exe : fatal error LNK1120: 1 unresolved externals
