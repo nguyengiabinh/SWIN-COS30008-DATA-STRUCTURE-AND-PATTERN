@@ -1,0 +1,7 @@
+﻿  IntVector.cpp
+D:\SWIN-COS30008-DATA-STRUCTURE-AND-ALGORITHM\Problem Set 2\IntVector.cpp(35,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main_PS2.cpp
+  ShakerSortableIntVector.cpp
+  SortableIntVector.cpp
+  Generating Code...
+  Problem Set 2.vcxproj -> D:\SWIN-COS30008-DATA-STRUCTURE-AND-ALGORITHM\Problem Set 2\x64\Debug\Problem Set 2.exe
