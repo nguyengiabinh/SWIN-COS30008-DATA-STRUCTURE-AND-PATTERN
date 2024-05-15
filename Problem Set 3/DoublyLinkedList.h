@@ -2,7 +2,11 @@
 // COS30008, Doubly-linked Nodes, Tutorial 9, 2022
 
 #pragma once
-//#include <utility>
+#include <iostream>
+#include <string>
+#include <stdexcept>
+
+#include "List.h"
 
 template<typename T>
 class DoublyLinkedList

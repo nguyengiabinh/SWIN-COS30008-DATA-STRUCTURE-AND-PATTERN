@@ -10,11 +10,11 @@
 using namespace std;
 
 //#define P0
-#define P1
+//#define P1
 //#define P2
 //#define P3
 //#define P4
-//#define P5
+#define P5
 
 #ifdef P0
 
@@ -239,7 +239,7 @@ void testP5()
     
     List<string> move( std::move(lList) );
 
-    if ( lList.empty() )
+    if ( lList.isEmpty() )
     {
         cout << "Successfully performed move operation." << endl;
     }
@@ -259,7 +259,7 @@ void testP5()
     // override list
     lList = std::move(move);
     
-    if ( move.empty() )
+    if ( move.isEmpty() )
     {
         cout << "Successfully performed move operation." << endl;
     }

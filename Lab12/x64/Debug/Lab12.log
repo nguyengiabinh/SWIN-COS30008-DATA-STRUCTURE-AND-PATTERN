@@ -1,0 +1,6 @@
+﻿  IntVector.cpp
+  Main.cpp
+  Generating Code...
+IntVector.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl IntVector::~IntVector(void)" (??1IntVector@@UEAA@XZ) referenced in function "public: virtual void * __cdecl IntVector::`scalar deleting destructor'(unsigned int)" (??_GIntVector@@UEAAPEAXI@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: virtual __cdecl IntVector::~IntVector(void)" (??1IntVector@@UEAA@XZ)
+D:\SWIN-COS30008-DATA-STRUCTURE-AND-ALGORITHM\Lab12\x64\Debug\Lab12.exe : fatal error LNK1120: 1 unresolved externals
